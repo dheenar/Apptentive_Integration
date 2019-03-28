@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>DC48E821-68B7-4337-8261-9C31BF60BD50</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC48E821-68B7-4337-8261-9C31BF60BD50.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ApptentiveRN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ApptentiveRN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ApptentiveRN with scheme ApptentiveRN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575296760.97274196</real>
+			<key>timeStoppedRecording</key>
+			<real>575296783.62419903</real>
+			<key>title</key>
+			<string>Building project ApptentiveRN with scheme ApptentiveRN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DC48E821-68B7-4337-8261-9C31BF60BD50</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
